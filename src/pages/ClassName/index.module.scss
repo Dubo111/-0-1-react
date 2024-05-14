@@ -1,0 +1,13 @@
+.a {
+  background-color: red;
+}
+.btn {
+  background-color: red;
+}
+:global {
+  .btn-primary {
+    width: 100px;
+    height: 11px;
+    color: yellow;
+  }
+}
