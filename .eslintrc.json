@@ -18,7 +18,7 @@
         "sourceType": "module"
       },
       "extends": [
-        "eslint:recommended",
+        "eslint:recommended", //继承Eslint中推荐的（打钩的）规则项http://eslint.cn/docs/rules/
         "plugin:react/recommended",
         "plugin:prettier/recommended"
       ],
